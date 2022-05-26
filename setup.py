@@ -1,7 +1,7 @@
 from setuptools import setup, Extension, find_packages
 from pathlib import Path
 
-BSEC = True
+BSEC = False
 
 if BSEC:
     ext_comp_args = ['-D BSEC']

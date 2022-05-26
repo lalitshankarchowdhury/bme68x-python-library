@@ -1,6 +1,5 @@
 #define _XOPEN_SOURCE 700
 #define TEMP_OFFSET 0.0f
-#define BSEC
 
 #include "internal_functions.h"
 
