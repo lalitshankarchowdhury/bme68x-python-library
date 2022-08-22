@@ -1,4 +1,4 @@
-# BME68X and BSEC2.0 for Python by pi3g
+# BME68X and BSEC2.0 for Python by pi3g (BSEC disabled)
 
 This Python extension enables you to read measurement data by the BME68X sensor and the BSEC2.0 library from BOSCH.<br>
 The BME68X sensors by BOSCH Sensortec measure temperature, pressure and humidity.<br>
